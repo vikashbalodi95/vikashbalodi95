@@ -3,7 +3,7 @@
 
 Email Me  ✉️ **vikashbalodi95@gmail.com** For Collaboration/Project or Anything Else. 
 
--  **I’m currently working on:** Stock Price Predictor & Job Salary Prediction Dashboard
+-  **I’m currently working on:** Delivery Time Predictor for E-commerce order & Customer Churn Prediction System
 -  **I’m currently learning:** Machine Learning, Deep Learning, and Data Analytics
 -  **I’m looking to collaborate on:** AI, Data Science, and ML Dashboard Projects
 -  **I’m looking for help with:** Deploying ML models & real-time data visualization
